@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RF_Detector")(type "KiCad")(uri "${KIPRJMOD}/RF_Detector.kicad_sym")(options "")(descr ""))
+  (lib (name "rf_probe")(type "KiCad")(uri "${KIPRJMOD}/rf_probe.kicad_sym")(options "")(descr ""))
+)

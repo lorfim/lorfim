@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "rf_probe")(type "KiCad")(uri "${KIPRJMOD}/rf_probe.pretty")(options "")(descr ""))
+  (lib (name "rf_detector")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
